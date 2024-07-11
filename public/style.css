@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E5D1CD;
+  }
+  
+  header {
+    text-align: left;
+    background-color: #BD9F99;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  h1 {
+    color: #7A6B68;
+    padding: 2rem;
+  }
+  
+  header nav a {
+    color: #fff;
+    margin: 0 1rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  table, th, td {
+    border: 3px solid #7A6B68;
+  }
+  
+  th, td {
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  form {
+    padding-left: 25%;
+    padding-right: 25%;
+  }
+  
+  form div {
+    margin-bottom: 3rem;
+  }
+  
+  form label {
+    display: block;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+  }
+  
+  button {
+    padding: 1rem;
+    background-color: #7A6B68;
+    color: #fff;
+    border: dotted; 
+  }
+  
